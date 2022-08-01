@@ -31,14 +31,6 @@ caso esteja o padrão não precisa alterar
 
 └───response      // Responses da API (fez envio de informcoes em json)
 
-# Passos para o SETUP 
-
-url do api: http://localhost:8080/swagger-ui/index.html#/
-
-Config do MongoDB
-Configure seu mongodb no application.properties caso tenho alterado a porta ou o usuário do seu mongodb,
-caso esteja o padrão não precisa alterar.
-
 Maven - 
 Bibliotecas importadas no mavem-
 
