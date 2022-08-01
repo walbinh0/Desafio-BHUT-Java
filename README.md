@@ -2,14 +2,14 @@
 
 Desafio realizado em Java para BHUT Serviços Tecnologia.
 
-# carros-api
+# Carros-api
 
 Aplicação utilizando Spring Boot e MySQL
 
 Requisitos:
 Java/Maven/ Mysql
 
-# - Passos para o SETUP -
+# Passos para o SETUP 
 
 Para acessar a api use a url: http://localhost:8080/swagger-ui/index.html#/
 
