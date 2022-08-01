@@ -29,7 +29,7 @@ caso esteja o padrão não precisa alterar
 ├───request       // Requisição para cadastrar um car numa api externa
 
 
-└───response      // Responses da API (fez envio de informcoes em json)
+└───response      // Responses da API (fez envio de informaçoes em json)
 
 Maven - 
 Bibliotecas importadas no mavem-
